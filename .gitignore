@@ -31,7 +31,6 @@ $RECYCLE.BIN/
 .history/
 *.code-workspace
 
-
 **/node_modules
 # /node_modules
 
